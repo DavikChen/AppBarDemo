@@ -27,4 +27,4 @@ appBar的使用例子
     <!-- Apply default style for alert dialogs -->
     <item name="android:alertDialogTheme">@style/AppAlertTheme</item>
     
-＃更多DialogFragment 的使用参考[Using DialogFragment](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)
+#更多DialogFragment 的使用参考[Using DialogFragment](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)
