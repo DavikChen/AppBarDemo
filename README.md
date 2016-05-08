@@ -20,4 +20,8 @@ appBar的使用例子
   源码注释:
   ![](https://github.com/DavikChen/AppBarDemo/blob/master/setTargetFragment.png)  
   
-
+  #统一配置app中的dialog & 提醒对话框的样式
+    <!-- Apply default style for dialogs -->
+    <item name="android:dialogTheme">@style/AppDialogTheme</item>
+    <!-- Apply default style for alert dialogs -->
+    <item name="android:alertDialogTheme">@style/AppAlertTheme</item>
