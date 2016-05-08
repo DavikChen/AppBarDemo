@@ -18,6 +18,6 @@ appBar的使用例子
   listenerFragment.onFinishEditDialog(mEditText.getText().toString());
 
   源码注释:
-  [](https://github.com/DavikChen/AppBarDemo/blob/master/setTargetFragment.png)  
+  ![](https://github.com/DavikChen/AppBarDemo/blob/master/setTargetFragment.png)  
   
 
