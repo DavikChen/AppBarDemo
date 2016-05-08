@@ -13,4 +13,4 @@ appBar的使用例子
   editNameDialogFragment.setTargetFragment(UserLoginFragment.this,300);
   
   源码注释:
-   setTargetFragment.png
+  [](https://github.com/DavikChen/AppBarDemo/blob/master/%20setTargetFragment.png)  
