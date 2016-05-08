@@ -12,5 +12,12 @@ appBar的使用例子
 需要特别注意需要用到  setTargetFragment 方法
   editNameDialogFragment.setTargetFragment(UserLoginFragment.this,300);
   
+  在fragment 点击函数中 通过如下使用:
+  
+  EditNameDialogListener listenerFragment = (EditNameDialogListener) getTargetFragment();
+  listenerFragment.onFinishEditDialog(mEditText.getText().toString());
+
   源码注释:
-  ![](https://github.com/DavikChen/AppBarDemo/blob/master/setTargetFragment.png)  
+  [](https://github.com/DavikChen/AppBarDemo/blob/master/setTargetFragment.png)  
+  
+
